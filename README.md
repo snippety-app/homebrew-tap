@@ -17,12 +17,7 @@ Then run it with no arguments and it walks you through the migration:
 snippety-migrate
 ```
 
-Universal binary, macOS 13 or later. The releases live in
-[snippety-app/snippety-migrator](https://github.com/snippety-app/snippety-migrator), which also has a
-signed and notarized `.pkg` if you would rather not use Homebrew.
+## Instruction
 
-## About the formulae
-
-They are generated and pushed by the release script that builds the binaries, so the version, url and
-checksum always describe an artifact that exists. Don't edit them by hand — the next release
-overwrites the file.
+Read the [Snippety documentation](https://snippety.app/help/migration) for more
+information on how to use this tool.
