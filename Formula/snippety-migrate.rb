@@ -2,9 +2,9 @@
 class SnippetyMigrate < Formula
   desc "Convert snippets from other text expansion apps into Snippety's backup JSON"
   homepage "https://snippety.app"
-  url "https://github.com/snippety-app/snippety-migrate/releases/download/v1.0.1/snippety-migrate-1.0.1-macos-universal.tar.gz"
-  version "1.0.1"
-  sha256 "3461dfe22cd5b1cd3ddafcbfc423c2b829c5c4e46bcb8c4332e293241178e130"
+  url "https://github.com/snippety-app/snippety-migrate/releases/download/v1.1.0/snippety-migrate-1.1.0-macos-universal.tar.gz"
+  version "1.1.0"
+  sha256 "395a899657819e6112b60d5265aa8f63298b58f89a4a8e0d2dfd0980742b62d3"
 
   # Lets `brew livecheck` and `brew bump-formula-pr` see new releases as they are published.
   livecheck do
